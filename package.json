@@ -1,0 +1,19 @@
+{
+  "name": "bogdanbryzh.me",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bogdanbryzh-official/bogdanbryzh.me.git"
+  },
+  "author": "Bogdan Bryzh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogdanbryzh-official/bogdanbryzh.me/issues"
+  },
+  "homepage": "https://github.com/bogdanbryzh-official/bogdanbryzh.me#readme"
+}
