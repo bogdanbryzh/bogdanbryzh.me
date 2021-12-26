@@ -1,0 +1,20 @@
+{
+  "name": "bogdanbryzh.me",
+  "version": "0.0.1",
+  "description": "Bogdan Bryzh | Personal page",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bogdanbryzh-official/bogdanbryzh.me.git"
+  },
+  "keywords": [
+    "personal",
+    "bogdanbryzh"
+  ],
+  "author": "Bogdan Bryzh <bogdan.bryzh@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bogdanbryzh-official/bogdanbryzh.me/issues"
+  },
+  "homepage": "https://github.com/bogdanbryzh-official/bogdanbryzh.me#readme"
+}
